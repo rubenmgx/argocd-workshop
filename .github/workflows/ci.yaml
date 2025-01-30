@@ -12,9 +12,9 @@ on:
 
 env:
   REGISTRY_URL: quay.io
-  REGISTRY_USERNAME: falrayes
-  REGISTRY_ACCESS_USER: falrayes+argocd_workshop
-  FASTAPI_IMAGE_REPO: fastapi-argocd-workshop
+  REGISTRY_USERNAME: rugomez
+  REGISTRY_ACCESS_USER: rugomez+argocdworkshop
+  FASTAPI_IMAGE_REPO: rugomez+argocdworkshop
   GO_IMAGE_REPO: go-argocd-workshop
   CI_COMMIT_MESSAGE: "[ci-auto-commit] Continuous Integration: Manifests generated and updated."
   CI_COMMIT_AUTHOR: GitHub Workflows
